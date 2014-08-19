@@ -121,9 +121,9 @@
 				231E438419A327DA009BD3A4 /* AppDelegate.h */,
 				231E438519A327DA009BD3A4 /* AppDelegate.m */,
 				231E438719A327DA009BD3A4 /* Main.storyboard */,
-				231E43AA19A32912009BD3A4 /* ViewControl.h */,
 				231E43AD19A3658F009BD3A4 /* MyViewController.h */,
 				231E43AE19A3658F009BD3A4 /* MyViewController.m */,
+				231E43AA19A32912009BD3A4 /* ViewControl.h */,
 				231E43AB19A32912009BD3A4 /* ViewControl.m */,
 				231E438A19A327DA009BD3A4 /* ViewController.h */,
 				231E438B19A327DA009BD3A4 /* ViewController.m */,
@@ -472,6 +472,7 @@
 				231E43A619A327DB009BD3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		231E43A719A327DB009BD3A4 /* Build configuration list for PBXNativeTarget "ProjTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +481,7 @@
 				231E43A919A327DB009BD3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

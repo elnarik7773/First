@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MyViewController : UITableViewController
-@property (weak, nonatomic) IBOutlet UITableViewCell *TF;
+@interface MyViewController : UITableViewController 
 @property NSString *str;
 @property NSString *str2;
 

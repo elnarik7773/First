@@ -8,9 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewControl : UIViewController  <UITableViewDataSource, UITableViewDelegate>
+@interface ViewControl : UIViewController 
 @property (weak, nonatomic) IBOutlet UITextField *TextField;
-@property (weak, nonatomic) IBOutlet UITableView *TView;
+
 @property (weak, nonatomic) IBOutlet UITextField *df;
 
 @end
